@@ -1,0 +1,15 @@
+<div class="grid grid-pad">
+    <div class="col-1-2">
+        <h3>{{title}}</h3>
+
+        {{#each stations}}
+            <div>
+                <p>{{id}}</p>
+                <a href="/station/{{id}}">{{name}}</a>
+                <p>{{imgUrl}}</p>
+                <p>{{streamUrl}}</p>
+            </div>
+        {{/each}}
+
+    </div>
+</div>
