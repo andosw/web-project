@@ -1,8 +1,8 @@
 TuneIn Web Project
 ===
-[toc]
 
-##Your mission
+
+###Your mission
 Hey Front End developer. Welcome. Your mission, should you chose to accept it, is to complete each of the objectives below. 
 
 > **Hey this is important:**  
@@ -41,7 +41,7 @@ Feel free to use any frameworks or npm packages. Update the flow/architecture as
 
 Be ready to talk through your decisions.
 
-##Running the site
+###Running the site
 ####Install Node
 (if you haven't already)   
 		
