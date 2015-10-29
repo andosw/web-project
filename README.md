@@ -3,16 +3,16 @@ TuneIn Web Project
 
 
 ###Your mission
-Hey Front End developer. Welcome. Your mission, should you chose to accept it, is to complete each of the objectives below. 
+Hey Front End developer. Welcome. Your mission, should you chose to accept it, is to complete as many of the objectives below as you can within 2-3 hours. 
 
 > **Hey this is important:**  
-> We hope you can spend about two hours on this project. If you can finish faster -- great! If not,  limit yourself and don't spend much longer than 2 hours.
+> We hope you can spend about two hours on this project. If you can finish faster -- great! If not,  limit yourself and don't spend much longer than 3 hours MAX.
 
-**_Objective 1_**: Follow the [steps](running-the-site) below to get the project running locally. You should see a pretty basic webpage rendered.
+**_Objective 1_**: Follow the [steps](#running-the-site) below to get the project running locally. You should see a pretty basic webpage rendered.
 
 **_Objective 2_**: Walk through the code starting at server.js. 
 
-Some things to think through as your browse:
+Some things to think through as you browse:
 
 -	How does routing work?
 -	Where does the initial data that loads on the root page come from?
